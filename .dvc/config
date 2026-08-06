@@ -1,0 +1,8 @@
+[core]
+    remote = storage
+['remote "localstorage"']
+    url = /Users/rounakagrawal/dvc-storage
+['remote "storage"']
+    url = s3://rounak-mini-project-dagshub
+['remote "origin"']
+    url = https://dagshub.com/Ragrawal2004/mloops_mini_porject.dvc

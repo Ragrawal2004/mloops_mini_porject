@@ -1,0 +1,26 @@
+# Core ML / data
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+scipy==1.14.0
+nltk==3.8.1
+
+# Web app
+Flask==3.0.3
+Werkzeug==3.0.3
+
+# Experiment tracking / versioning
+mlflow==2.15.0
+dagshub==0.3.34
+dvc==3.53.0
+dvc-s3==3.2.0
+
+# Config / env
+PyYAML==6.0.1
+python-dotenv==1.0.1
+
+# Testing / linting
+flake8==7.1.0
+
+# Plotting (src/visualization)
+matplotlib==3.9.1
